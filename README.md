@@ -7,4 +7,4 @@
 <img  src="assets/4.png" />
 <img  src="assets/5.png" />
 <img  src="assets/8.png" />
-<img  src="assets/roulette.png" />
+<img  src="./roulette.png" />
